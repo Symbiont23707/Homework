@@ -1,4 +1,4 @@
-https://www.politico.com/rss/politicopicks.xml
 https://www.nasa.gov/rss/dyn/breaking_news.rss
+https://www.politico.com/rss/politicopicks.xml
 "https://lenta.ru/rss"
 "https://www.vesti.ru/vesti.rss"
