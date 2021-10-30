@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-Version = "2.0"
+Version = "3.0"
 Description = "Parser who parse rss sites"
 
 with open("requirements.txt", "r", encoding="utf-8") as f:

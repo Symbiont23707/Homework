@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['rss_reader.py'],
-             pathex=['C:\\Users\\bykov\\Homework\\Finl_project(2)'],
+             pathex=['C:\\Users\\bykov\\Homework\\Finl_project(3)'],
              binaries=[],
              datas=[],
              hiddenimports=[],
